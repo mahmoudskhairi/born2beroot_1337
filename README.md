@@ -1,5 +1,5 @@
 # 42cursus - Born2beroot
-<img src="b2br.jpeg" alt="Libft Logo" style="max-width: 100%; height: auto;">
+<img src="born3.jpg" alt="Libft Logo" style="max-width: 100%; height: auto;">
 ## Table of Contents
 1. [Introduction](#introduction)
     - [What is a Virtual Machine?](#Virtual-Machine)
