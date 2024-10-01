@@ -665,4 +665,4 @@ I think it's done for now. I highly recommend repeating the installation process
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mahmoud-skhairi" target="_blank">mahmoud skhairi</a></li>
 </ul>
 
-<h2>Happy deeping in this world!</h2>
+<h2>Happy life in this world!</h2>
