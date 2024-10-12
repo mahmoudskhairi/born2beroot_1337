@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
     - [What is a Virtual Machine?](#Virtual-Machine)
-    - [How do Virtual Machines work?](#Virtual-Machines-work)
+    - [How do Virtual Machines work?](#Virtual-Machines-work) 
     - [What is LVM?](#What-is-LVM?)
     - [What is AppArmor?](#What-is-AppArmor?)
     - [What is the difference between Apt and Aptitute?](#Apt-and-Aptitute)
